@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erik Borella</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erikborella&label=Profile%20views&color=0e75b6&style=flat" alt="erikborella" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erikborella" alt="erikborella" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erikborella&theme=darkhub&column=7" alt="erikborella" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
